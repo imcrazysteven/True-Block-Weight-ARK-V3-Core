@@ -39,7 +39,7 @@ Follow these steps to set up the True-Block-Weight system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/stevendev0822/True-Block-Weight-ARK-V3-Core.git
+git clone https://github.com/imcrazysteven/True-Block-Weight-ARK-V3-Core.git
 
 # Navigate to the project directory
 cd True-Block-Weight-ARK-V3-Core
@@ -258,4 +258,4 @@ If you discover a security vulnerability, please open an issue. All security vul
 
 ## License
 
-[MIT](LICENSE) © [stevendev0822](https://github.com/stevendev0822)
+[MIT](LICENSE) © [imcrazysteven](https://github.com/imcrazysteven)
